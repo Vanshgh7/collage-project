@@ -1,2 +1,2 @@
 # collage-project
-clich here for project
+click here for project
