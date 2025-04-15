@@ -1,2 +1,4 @@
 # collage-project
-click here for project
+click here for ON
+<br>
+'project mode'
